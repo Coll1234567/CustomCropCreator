@@ -1,0 +1,4 @@
+name: CustomCropCreator
+version: 1.0.0
+main: me.jishunamatata.customcrops.CustomCropCreator
+api-version: 1.16

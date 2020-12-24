@@ -1,0 +1,9 @@
+crops:
+  lettuce:
+    hunger: 2
+    saturation: 2
+    minseeds: 1
+    maxseeds: 2
+    seedtype: 'WHEAT_SEEDS'
+    croptype: 'CARROTS'
+    texture: 'e5196969afcc1949c3538697cdd5b19197fa3851613468dbd55d03153899b6'

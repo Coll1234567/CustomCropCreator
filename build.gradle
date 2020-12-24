@@ -1,0 +1,21 @@
+plugins {
+	id 'java'
+}
+
+group 'me.jishunamatata.customcrops'
+version '1.0-SNAPSHOT'
+
+repositories {
+	mavenLocal()
+	mavenCentral()
+}
+
+dependencies {
+    compileOnly 'org.spigotmc:spigot:1.16.4-R0.1-SNAPSHOT'
+}
+
+compileJava {
+    sourceCompatibility = '1.8'
+    targetCompatibility = '1.8'
+}
+
